@@ -25,8 +25,6 @@ After signing up to GitHub, create a fork of this repository by doing the follow
 ## Step 3 - Update your fork
 
 - To update your copy of the repo with changes I might have made to the source or origin repo (i.e. my own version of the repo where everyone else forked from),check the image below
-- 
-
 
 ## Step 4 - Install VSCode
 
