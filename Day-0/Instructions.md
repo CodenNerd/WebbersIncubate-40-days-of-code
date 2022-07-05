@@ -24,7 +24,13 @@ After signing up to GitHub, create a fork of this repository by doing the follow
 
 ## Step 3 - Update your fork
 
-- To update your copy of the repo with changes I might have made to the source or origin repo (i.e. my own version of the repo where everyone else forked from),check the image below
+- To update your copy of the repo with changes I might have made to the source or origin repo (it's actually called upstream repo) (i.e. my own version of the repo where everyone else forked from),check the image below
+- Whenever I have made changes to the upstream repo, GitHub will tell you that your branch is now behind my own branch as in the picture below
+- ![image](https://user-images.githubusercontent.com/34954722/177251728-abdd6f55-0527-4edb-8e78-0ba5232b6db5.png)
+- Also observe the option on the right to fetch upstream. That's the option that updates your repo with latest changes. Click it.
+- Click the `Fetch and merge` button
+- Your branch should be up to date now
+- Remember this step, you'll need this everytime there are new challenges
 
 ## Step 4 - Install VSCode
 
