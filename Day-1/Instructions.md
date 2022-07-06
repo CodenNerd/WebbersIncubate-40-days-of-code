@@ -30,7 +30,7 @@
 ## Commit and make a Pull Request
 
 - Open your VSCode terminal
-- Type `git add .`. This is called staging your changes.
+- Type `git add .` This is called staging your changes.
 - Type `git commit -m "Implement Day 1 task"`. This saves your changes using the quoted statement as labels.
 - Type `git push origin main`. This pushes your main branch to GitHub
 
