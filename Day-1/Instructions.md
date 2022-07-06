@@ -3,7 +3,7 @@
 ## Install Git
 
 - Please follow this 4-min tutorial to install git
-
+- https://www.youtube.com/watch?v=4xqVv2lTo40
 
 ## Clone your repository
 
