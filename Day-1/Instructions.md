@@ -1,5 +1,10 @@
 # Day 1 - Making your first Pull Request
 
+## Install Git
+
+- Please follow this 4-min tutorial to install git
+
+
 ## Clone your repository
 
 - Go to your forked version of this repository. That's where we start from.
@@ -33,4 +38,5 @@
 - Type `git add .` This is called staging your changes.
 - Type `git commit -m "Implement Day 1 task"`. This saves your changes using the quoted statement as labels.
 - Type `git push origin main`. This pushes your main branch to GitHub
+
 
