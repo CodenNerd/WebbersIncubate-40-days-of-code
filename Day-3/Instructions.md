@@ -4,7 +4,7 @@ Create a function that take in an argument and print the argument to the screen 
 ## Detailed explanation
 - In the `Day-3/` directory, create `index.html`, create `index.js`
 - In the JS file, create a function that takes in a parameter
-- In the HTML file, create a button that calls the function onclick, and pass an argument of string to the function.
+- In the HTML file, create a button that calls the function `onclick`, and pass an argument of string to the function.
 - Whatever is been passed within the button function, should be printed to the screen.
 - The argument that should be passed to the function is `Welcome To 40 Days Of Code`.
 
