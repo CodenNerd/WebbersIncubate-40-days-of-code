@@ -13,6 +13,7 @@
 ## Main task
 - Create a `div` with a content `Welcome to 40 days of code day 4`
 - Create a function that grabs the content of the `div` onclick of a button and display it to screen. Use the explanation below to guide you on how to go about it.
+- Also create a div that says `Welcome to 40 days of code day 4`
 
 ## Detailed explanation
 - In the `Day-4/` directory, create `index.html`, create `index.js`
@@ -23,6 +24,11 @@
 ## HINTS: 
 - Use `document.write()` or `console.log()` to print to the page
 - Do your print inside your function
+- Use document.getElementById() to grab your div
+- Use innerHTML or innerText or textContent to get the content of your grabbed div
+- Check out this video on getting innerText or innerHTML or textContent of your grabbed element https://www.youtube.com/watch?v=KsLc9C2D950
+- This link shows different ways of grabbing an element from the DOM https://www.w3schools.com/js/js_htmldom_elements.asp
+
 
 ## Commit and make a Pull Request
 - Open your VSCode terminal
