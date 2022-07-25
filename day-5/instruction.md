@@ -3,7 +3,7 @@
 ## Update your project
 
 - Go to your fork of the repo and update upstream
-- Now you should see Day-4 folder updated in your fork
+- Now you should see Day-5 folder updated in your fork
 - Go to your VSCode
 - Open your project by going to `File`>`Open Folder` and then select your project folder `WebbersIncubate-40-days-of-code`
 - Now that your project is open in VSCode, got to the terminal by pressing `CTRL` and backtick
