@@ -1,0 +1,1 @@
+gMake a function using the && operator
