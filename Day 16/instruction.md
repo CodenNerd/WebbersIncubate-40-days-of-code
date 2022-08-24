@@ -1,1 +1,1 @@
-gMake a function using the && operator
+Make a function using the && operator
