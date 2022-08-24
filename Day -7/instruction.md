@@ -1,0 +1,1 @@
+Write a function that takes an interger minutes and converts it to seconds.
